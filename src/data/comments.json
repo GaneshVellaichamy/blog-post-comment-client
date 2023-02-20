@@ -1,0 +1,66 @@
+[
+    {
+        "commentId": 1,
+        "commentBody": "First Comment",
+        "parentId": 0,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 2,
+        "commentBody": "Second Comment",
+        "parentId": 0,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 3,
+        "commentBody": "First Comment Reply1",
+        "parentId": 1,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 4,
+        "commentBody": "First Comment Reply1 - Reply",
+        "parentId": 3,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 5,
+        "commentBody": "Second Comment Reply1",
+        "parentId": 2,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 6,
+        "commentBody": "Second Comment Reply1 - Reply",
+        "parentId": 5,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 7,
+        "commentBody": "First Comment Reply2",
+        "parentId": 1,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+        "commentId": 8,
+        "commentBody": "Second Comment Reply2",
+        "parentId": 2,
+        "userId": 1,
+        "userName" : "Ganesh Vellaichamy",
+        "updatedAt": "2021-08-16T23:00:33.010+02:00"
+    }
+]
